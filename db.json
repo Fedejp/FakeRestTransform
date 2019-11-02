@@ -1,0 +1,9 @@
+{
+  "titulo": "Brazaletes",
+  "imgprincipal" : "http://carolinallinas.com/wp-content/uploads/2012/05/IMG_0148.jpg",
+  "album": ["http://carolinallinas.com/wp-content/uploads/2012/05/IMG_0148.jpg",    "https://i.pinimg.com/originals/36/e4/35/36e435853fe40dda7736426ea40ee79a.jpg","http://2.bp.blogspot.com/-4oMEHx8QXP4/U84DLagZPTI/AAAAAAAAFOQ/ZuF_ZGJwvKA/s600/como+hacer+pulseras+papel.jpg","http://2.bp.blogspot.com/-i5TcjjgIZvk/T7MG5_6jRgI/AAAAAAAAAsc/eaGhqRtZNYs/s1600/IMG_0143.JPG","http://carolinallinas.com/wp-content/uploads/2012/05/IMG_0148.jpg"
+    ],
+    "materiales":["Material 1","Material 2","Material 3"],
+    "pap" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam in commodo erat. Donec id convallis nunc. Ut eu erat quis lacus commodo vulputate rutrum maximus augue. Phasellus id quam in nunc mollis hendrerit in imperdiet erat. Fusce porttitor eleifend ornare. Vivamus molestie nunc eu sapien volutpat commodo. Suspendisse velit velit, porta vitae placerat id, auctor sed velit. Suspendisse potenti. Donec quis finibus eros. Sed cursus odio a nisl aliquam pulvinar. Vivamus ultrices purus quis lorem sodales mattis. Maecenas purus eros, malesuada vel velit ac, tincidunt consequat dolor."
+    
+}
