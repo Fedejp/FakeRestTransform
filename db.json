@@ -8,6 +8,15 @@
     ],
     "materiales":["Material 1","Material 2","Material 3"],
     "pap" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam in commodo erat. Donec id convallis nunc. Ut eu erat quis lacus commodo vulputate rutrum maximus augue. Phasellus id quam in nunc mollis hendrerit in imperdiet erat. Fusce porttitor eleifend ornare. Vivamus molestie nunc eu sapien volutpat commodo. Suspendisse velit velit, porta vitae placerat id, auctor sed velit. Suspendisse potenti. Donec quis finibus eros. Sed cursus odio a nisl aliquam pulvinar. Vivamus ultrices purus quis lorem sodales mattis. Maecenas purus eros, malesuada vel velit ac, tincidunt consequat dolor."
+    }, 
+    {
+      "id": 2,
+  "titulo": "Maceta",
+  "imgprincipal" : "https://cdn2.cocinadelirante.com/sites/default/files/images/2019/01/como-hacer-macetas-con-botellas-pet.jpg",
+  "album": ["https://www.comohacerpasoapaso.com/wp-content/uploads/2018/01/macetas-sencillas-con-botellas-pl%C3%A1sticas-3.jpg",    "https://i.ytimg.com/vi/2w8rieAMtbM/maxresdefault.jpg","https://cdn2.cocinadelirante.com/sites/default/files/images/2019/01/como-hacer-macetas-con-botellas-pet.jpg"
+    ],
+    "materiales":["Material 1","Material 2","Material 3"],
+    "pap" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam in commodo erat. Donec id convallis nunc. Ut eu erat quis lacus commodo vulputate rutrum maximus augue. Phasellus id quam in nunc mollis hendrerit in imperdiet erat. Fusce porttitor eleifend ornare. Vivamus molestie nunc eu sapien volutpat commodo. Suspendisse velit velit, porta vitae placerat id, auctor sed velit. Suspendisse potenti. Donec quis finibus eros. Sed cursus odio a nisl aliquam pulvinar. Vivamus ultrices purus quis lorem sodales mattis. Maecenas purus eros, malesuada vel velit ac, tincidunt consequat dolor."
     }
       ]
 }
